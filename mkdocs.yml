@@ -1,0 +1,9 @@
+site_name: "Alvaro Hernanz Sanz"
+use_directory_urls: false
+
+theme:
+  name: readthedocs
+  nav_style: dark
+
+nav:
+  - Inicio: 'index.md'
